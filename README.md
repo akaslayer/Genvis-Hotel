@@ -14,4 +14,4 @@ Email : user@gmail.com
 Pass : user123
 
 # Link Hosting
-https://genvishotels.000webhostapp.com/
+https://genvishotel12.000webhostapp.com/
