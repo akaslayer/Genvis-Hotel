@@ -1,10 +1,17 @@
 # GenvisHotel
-Anima adalah website sistem pakar yang dapat membantu kamu mendeteksi penyakit anemia secara dini bekerja sama dengan dr. Merissa Arviana.
 
-## Admin
+GenvisHotel adalah website booking hotel yang dilengkapi dengan fitur CRUD pada sisi admin. Website ini dibuat menggunakan framework Codeigniter 3.
+
+## Akun jika tidak ingin register
+### Admin
 Email admin : admin@gmail.com
 
 Pass admin : admin123
 
+## User
+Email : user@gmail.com
+
+Pass : user123
+
 # Link Hosting
-https://animaskripsi.000webhostapp.com/
+https://genvishotel21.000webhostapp.com
