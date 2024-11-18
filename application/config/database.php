@@ -75,9 +75,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
+	'hostname' => 'amiable-octane-428504-h2:asia-southeast2:bookinghotel',
 	'username' => 'root',
-	'password' => '',
+	'password' => '`V:[aaj.aqU[sv1)',
 	'database' => 'booking_hotel',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
